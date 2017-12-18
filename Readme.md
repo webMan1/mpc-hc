@@ -1,4 +1,4 @@
-# Media Player Classic - Home Cinema
+# Media Player Classic - Home Cinema - my clone
 
 [![GitHub Tag](https://img.shields.io/github/tag/mpc-hc/mpc-hc.svg?label=version)](https://github.com/mpc-hc/mpc-hc)
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/259.svg)](https://scan.coverity.com/projects/259)
